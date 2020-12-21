@@ -1,0 +1,3 @@
+Gra w życie toczy się na planszy podzielonej na kwadratowe komórki. Każda komórka ma swoich sąsiadów (osiem). Komórka ma dwa stany: może być żywa lub martwa. 
+Stany komórek zmieniają się w pewnych jednostkach czasu(w programie są to kolejne iteracje). Stan komórki zależy od jej żywych sąsiadów. Jeśli komórka żywa ma 2 lub 3 
+żywych sąsiadów wówczas pozostaje żywa, w przeciwnym razie staje się martwa. Natomiast komórka martwa potrzebuje dokładnie 3 sąsiadów, aby stać się komórką żywą.
